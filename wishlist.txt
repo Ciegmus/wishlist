@@ -1,4 +1,5 @@
-title:Список желаний v0.01
+title:Список желаний
+version:0.01
 description:Список желаний клана Rule of Wipe[ROW]
 
 // Hung Jury SR4 (god-pve)
