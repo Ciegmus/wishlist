@@ -2,11 +2,6 @@ title:Список желаний
 version:0.01
 description:Список желаний клана Rule of Wipe[ROW]
 
-// Hung Jury SR4 (god-pve)
-//notes: Абсолют: Перезарядка tags:god-pve
-dimwishlist:item=205225492&perks=839105230,1087426260,3891536761,555281244
-
-
 // Hung Jury SR4 (pve)
 //notes: Абсолют: Перезарядка tags:pve
 dimwishlist:item=205225492&perks=839105230,1087426260,3891536761,3824105627
