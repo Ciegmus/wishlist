@@ -1,5 +1,5 @@
 title:Список желаний
-version:0.02
+version:0.1
 description:Список желаний клана [ROW]
 
 // Hung Jury SR4 (god-pve)
@@ -48,6 +48,90 @@ dimwishlist:item=243425374&perks=3666208348,269888150,1546637391,3078487919
 // Falling Guillotine (god-pve)
 //notes: Абсолют: Урон tags:god-pve
 dimwishlist:item=243425374&perks=1546637391,3078487919
+
+
+// Darkest Before (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=435821040&perks=1482024992,3230963543,3017780555,4293542123
+
+
+// Darkest Before (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=435821040&perks=3017780555,4293542123
+
+
+// Darkest Before (god-pvp)
+//notes: Абсолют: Дальность tags:god-pvp
+dimwishlist:item=435821040&perks=1482024992,1885400500,3511092054,460017080
+
+
+// Darkest Before (god-pvp)
+//notes: Абсолют: Дальность tags:god-pvp
+dimwishlist:item=435821040&perks=3511092054,460017080
+
+
+// Darkest Before (pve)
+//notes: Абсолют: Перезарядка tags:pve
+dimwishlist:item=435821040&perks=1482024992,3230963543,3592538738,4293542123
+dimwishlist:item=435821040&perks=1482024992,3230963543,3592538738,1015611457
+dimwishlist:item=435821040&perks=1482024992,3230963543,3592538738,4049631843
+dimwishlist:item=435821040&perks=1482024992,3230963543,3017780555,4293542123
+dimwishlist:item=435821040&perks=1482024992,3230963543,3017780555,1015611457
+dimwishlist:item=435821040&perks=1482024992,3230963543,3017780555,4049631843
+
+
+// Darkest Before (pvp)
+//notes: Абсолют: Дальность tags:pvp
+dimwishlist:item=435821040&perks=1482024992,1885400500,3511092054,460017080
+dimwishlist:item=435821040&perks=1482024992,1885400500,3511092054,1015611457
+dimwishlist:item=435821040&perks=1482024992,1885400500,3511092054,3436462433
+dimwishlist:item=435821040&perks=1482024992,1885400500,3017780555,460017080
+dimwishlist:item=435821040&perks=1482024992,1885400500,3017780555,1015611457
+dimwishlist:item=435821040&perks=1482024992,1885400500,3017780555,3436462433
+dimwishlist:item=435821040&perks=1482024992,1885400500,3592538738,460017080
+dimwishlist:item=435821040&perks=1482024992,1885400500,3592538738,1015611457
+dimwishlist:item=435821040&perks=1482024992,1885400500,3592538738,3436462433
+
+
+// Relentless (god-pvp)
+//notes: Абсолют: Дальность/Стабильность tags:god-pvp
+dimwishlist:item=435821041&perks=1482024992,1885400500,247725512,2387244414
+
+
+// Relentless (god-pvp)
+//notes: Абсолют: Дальность/Стабильность tags:god-pvp
+dimwishlist:item=435821041&perks=247725512,2387244414
+
+
+// Relentless (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=435821041&perks=1482024992,3230963543,1168162263,831391274
+
+
+// Relentless (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=435821041&perks=1168162263,831391274
+
+
+// Relentless (pvp)
+//notes: Абсолют: Дальность/Стабильность tags:pvp
+dimwishlist:item=435821041&perks=1482024992,1885400500,3619207468,588594999
+dimwishlist:item=435821041&perks=1482024992,1885400500,3619207468,460017080
+dimwishlist:item=435821041&perks=1482024992,1885400500,3619207468,2387244414
+dimwishlist:item=435821041&perks=1482024992,1885400500,247725512,588594999
+dimwishlist:item=435821041&perks=1482024992,1885400500,247725512,460017080
+dimwishlist:item=435821041&perks=1482024992,1885400500,247725512,2387244414
+dimwishlist:item=435821041&perks=1482024992,1885400500,923806249,588594999
+dimwishlist:item=435821041&perks=1482024992,1885400500,923806249,460017080
+dimwishlist:item=435821041&perks=1482024992,1885400500,923806249,2387244414
+
+
+// Relentless (pve)
+//notes: Абсолют: Перезарядка tags:pve
+dimwishlist:item=435821041&perks=1482024992,3230963543,1168162263,4104185692
+dimwishlist:item=435821041&perks=1482024992,3230963543,1168162263,3047969693
+dimwishlist:item=435821041&perks=1482024992,3230963543,923806249,4104185692
+dimwishlist:item=435821041&perks=1482024992,3230963543,923806249,3047969693
 
 
 // Forbearance (god-pve)
@@ -106,6 +190,55 @@ dimwishlist:item=570866107&perks=1523832109,1546637391
 // Succession (pve)
 //notes: Абсолют: Удобство+Запасной магазин tags:pve
 dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1771339417
+
+
+// Adjudicator (god-pvp)
+//notes: Абсолют: Дальность+Ложь противовеса/Регулятор прицеливания tags:god-pvp
+dimwishlist:item=1013434963&perks=1482024992,3142289711,1359896290,95528736
+
+
+// Adjudicator (god-pvp)
+//notes: Абсолют: Дальность tags:god-pvp
+dimwishlist:item=1013434963&perks=1359896290,95528736
+
+
+// Adjudicator (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=1013434963&perks=1482024992,3230963543,1820235745,95528736
+
+
+// Adjudicator (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=1013434963&perks=1820235745,95528736
+
+
+// Adjudicator (pvp)
+//notes: Абсолют: Дальность+Ложь противовеса/Регулятор прицеливания tags:pvp
+dimwishlist:item=1013434963&perks=202670084,3142289711,1359896290,3425386926
+dimwishlist:item=1013434963&perks=202670084,3142289711,1359896290,2451262963
+dimwishlist:item=1013434963&perks=202670084,3142289711,1359896290,95528736
+dimwishlist:item=1013434963&perks=202670084,3142289711,1428297954,3425386926
+dimwishlist:item=1013434963&perks=202670084,3142289711,1428297954,2451262963
+dimwishlist:item=1013434963&perks=202670084,3142289711,1428297954,95528736
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1359896290,3425386926
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1359896290,2451262963
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1359896290,95528736
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1428297954,3425386926
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1428297954,2451262963
+dimwishlist:item=1013434963&perks=3250034553,3142289711,1428297954,95528736
+
+
+// Adjudicator (pve)
+//notes: Абсолют: Перезарядка | High-end: Кинетическая дрожь / Casual: Штурм tags:pve
+dimwishlist:item=1013434963&perks=1482024992,3230963543,1820235745,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,1820235745,3891536761
+dimwishlist:item=1013434963&perks=1482024992,3230963543,1820235745,4104185692
+dimwishlist:item=1013434963&perks=1482024992,3230963543,2779035018,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,2779035018,3891536761
+dimwishlist:item=1013434963&perks=1482024992,3230963543,2779035018,4104185692
+dimwishlist:item=1013434963&perks=1482024992,3230963543,4071163871,95528736
+dimwishlist:item=1013434963&perks=1482024992,3230963543,4071163871,3891536761
+dimwishlist:item=1013434963&perks=1482024992,3230963543,4071163871,4104185692
 
 
 // The Recluse (god-pve)
@@ -270,6 +403,49 @@ dimwishlist:item=2763843899&perks=3250034553,1968497646,3017780555,4293542123
 dimwishlist:item=2763843899&perks=3250034553,1968497646,3828510309,4293542123
 
 
+// Judgment (god-pvp)
+//notes: Абсолют: Дальность tags:god-pvp
+dimwishlist:item=2969415423&perks=1926090091,3142289711,588594999,47981717
+
+
+// Judgment (god-pvp)
+//notes: Абсолют: Дальность tags:god-pvp
+dimwishlist:item=2969415423&perks=588594999,47981717
+
+
+// Judgment (god-pve)
+//notes: Абсолют: Дальность/Стабильность tags:god-pve
+dimwishlist:item=2969415423&perks=1926090093,1087426260,124408337,11612903
+
+
+// Judgment (god-pve)
+//notes: Абсолют: Дальность/Стабильность tags:god-pve
+dimwishlist:item=2969415423&perks=124408337,11612903
+
+
+// Judgment (pvp)
+//notes: Абсолют: Дальность tags:pvp
+dimwishlist:item=2969415423&perks=1926090091,3142289711,588594999,47981717
+dimwishlist:item=2969415423&perks=1926090091,3142289711,588594999,699525795
+dimwishlist:item=2969415423&perks=1926090091,3142289711,588594999,1954620775
+dimwishlist:item=2969415423&perks=1926090091,3142289711,3161816588,47981717
+dimwishlist:item=2969415423&perks=1926090091,3142289711,3161816588,699525795
+dimwishlist:item=2969415423&perks=1926090091,3142289711,3161816588,1954620775
+
+
+// Judgment (pve)
+//notes: Абсолют: Дальность/Стабильность tags:pve
+dimwishlist:item=2969415423&perks=1926090093,1087426260,124408337,11612903
+dimwishlist:item=2969415423&perks=1926090093,1087426260,124408337,2458213969
+dimwishlist:item=2969415423&perks=1926090093,1087426260,3523296417,11612903
+dimwishlist:item=2969415423&perks=1926090093,1087426260,3523296417,2458213969
+
+
+// Judgment (pve)
+//notes: Абсолют: Дальность/Стабильность | Диверсант+Задержка взрыва (т.к. задержка взрыва не работает с Надгробием, лишь такой ролл будет самым эффективным в сочетании) tags:pve
+dimwishlist:item=2969415423&perks=1926090093,1087426260,3523296417,1954620775
+
+
 // The Recluse (god-pve)
 //notes: Абсолют: Дальность tags:god-pve
 dimwishlist:item=3098328572&perks=3250034553,1885400500,1820235745,4104185692
@@ -304,6 +480,31 @@ dimwishlist:item=3483591058&perks=202670084,1885400500,2387244414,365154968
 // Prosecutor (god-pvp)
 //notes: Абсолют: Дальность tags:god-pvp
 dimwishlist:item=3483591058&perks=2387244414,365154968
+
+
+// Prosecutor (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=3483591058&perks=1482024992,3230963543,2848615171,2173046394
+
+
+// Prosecutor (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=3483591058&perks=2848615171,2173046394
+
+
+// Prosecutor (pvp)
+//notes: Абсолют: Дальность tags:pvp
+dimwishlist:item=3483591058&perks=202670084,1885400500,3619207468,365154968
+dimwishlist:item=3483591058&perks=202670084,1885400500,3619207468,2610012052
+dimwishlist:item=3483591058&perks=202670084,1885400500,2387244414,365154968
+dimwishlist:item=3483591058&perks=202670084,1885400500,2387244414,2610012052
+dimwishlist:item=3483591058&perks=202670084,1885400500,1365187766,365154968
+dimwishlist:item=3483591058&perks=202670084,1885400500,1365187766,2610012052
+
+
+// Prosecutor (pve)
+//notes: Абсолют: Перезарядка tags:pve
+dimwishlist:item=3483591058&perks=1482024992,3230963543,3418782618,365154968
 
 
 // Succession (god-pve)
@@ -358,5 +559,45 @@ dimwishlist:item=4043921923&perks=981914802,3301904089,3643424744,4049631843
 dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,469285294
 dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,4104185692
 dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,4049631843
+
+
+// A Sudden Death (god-pvp)
+//notes: Абсолют: Дальность tags:god-pvp
+dimwishlist:item=4097972038&perks=4090651448,3142289711,4071163871,47981717
+
+
+// A Sudden Death (god-pvp)
+//notes: Абсолют: Дальность tags:god-pvp
+dimwishlist:item=4097972038&perks=4071163871,47981717
+
+
+// A Sudden Death (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
+dimwishlist:item=4097972038&perks=4090651448,791862061,968510818,2360754333
+
+
+// A Sudden Death (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
+dimwishlist:item=4097972038&perks=968510818,2360754333
+
+
+// A Sudden Death (pvp)
+//notes: Абсолют: Дальность tags:pvp
+dimwishlist:item=4097972038&perks=4090651448,3142289711,3161816588,47981717
+dimwishlist:item=4097972038&perks=4090651448,3142289711,3511092054,47981717
+dimwishlist:item=4097972038&perks=4090651448,3142289711,3978468247,47981717
+
+
+// A Sudden Death (pve)
+//notes: Абсолют: Дальность tags:pve
+dimwishlist:item=4097972038&perks=4090651448,791862061,968510818,3751912585
+dimwishlist:item=4097972038&perks=4090651448,791862061,968510818,2679249093
+dimwishlist:item=4097972038&perks=4090651448,791862061,968510818,2360754333
+dimwishlist:item=4097972038&perks=4090651448,791862061,4071163871,3751912585
+dimwishlist:item=4097972038&perks=4090651448,791862061,4071163871,2679249093
+dimwishlist:item=4097972038&perks=4090651448,791862061,4071163871,2360754333
+dimwishlist:item=4097972038&perks=4090651448,791862061,3978468247,3751912585
+dimwishlist:item=4097972038&perks=4090651448,791862061,3978468247,2679249093
+dimwishlist:item=4097972038&perks=4090651448,791862061,3978468247,2360754333
 
 
