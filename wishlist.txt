@@ -2,7 +2,7 @@ title:Список желаний
 version:0.02
 description:Список желаний клана [ROW]
 
-// Hung Jury SR4 - PVE ()
+// Hung Jury SR4 ()
 //notes: PVE | Абсолют: Перезарядка
 dimwishlist:item=205225492&perks=839105230,1087426260,3891536761,3824105627
 dimwishlist:item=205225492&perks=839105230,1087426260,3891536761,555281244
@@ -10,12 +10,12 @@ dimwishlist:item=205225492&perks=839105230,1087426260,3418782618,3824105627
 dimwishlist:item=205225492&perks=839105230,1087426260,3418782618,555281244
 
 
-// Hung Jury SR4 - GPVE ()
+// Hung Jury SR4 ()
 //notes: GPVE | Абсолют: Перезарядка
 dimwishlist:item=205225492&perks=839105230,1087426260,3891536761,555281244
 
 
-// Hung Jury SR4 - GPVE ()
+// Hung Jury SR4 ()
 //notes: GPVE | Абсолют: Перезарядка
 dimwishlist:item=205225492&perks=3891536761,555281244
 
@@ -349,3 +349,5 @@ dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,4104185692
 // The Mountaintop - GPVE ()
 //notes: GPVE | Абсолют: Удобство
 dimwishlist:item=4043921923&perks=951095735,469285294
+
+
