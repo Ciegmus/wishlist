@@ -1,5 +1,5 @@
 title:Список желаний
-version: 0.15
+version: 0.1
 description:Список желаний клана [ROW]
 
 // Hung Jury SR4 (god-pve)
