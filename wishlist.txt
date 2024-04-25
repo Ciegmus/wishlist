@@ -1,5 +1,5 @@
 title:Список желаний
-version:0.1
+version:0.15
 description:Список желаний клана [ROW]
 
 // Hung Jury SR4 (god-pve)
@@ -190,6 +190,41 @@ dimwishlist:item=570866107&perks=1523832109,1546637391
 // Succession (pve)
 //notes: Абсолют: Удобство+Запасной магазин tags:pve
 dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1771339417
+
+
+// Vengeful Whisper (god-pve)
+//notes: Абсолют: Скорострельность tags:god-pve
+dimwishlist:item=839344841&perks=2801223209,3429800428,201365942,831391274
+
+
+// Vengeful Whisper (god-pve)
+//notes: Абсолют: Скорострельность tags:god-pve
+dimwishlist:item=839344841&perks=201365942,831391274
+
+
+// Vengeful Whisper (god-pvp)
+//notes: Абсолют: Скорострельность tags:god-pvp
+dimwishlist:item=839344841&perks=2801223209,3429800428,201365942,2652708987
+
+
+// Vengeful Whisper (god-pvp)
+//notes: Абсолют: Скорострельность tags:god-pvp
+dimwishlist:item=839344841&perks=201365942,2652708987
+
+
+// Vengeful Whisper (pve)
+//notes: Абсолют: Скорострельность tags:pve
+dimwishlist:item=839344841&perks=2801223209,3429800428,201365942,831391274
+dimwishlist:item=839344841&perks=2801223209,3429800428,201365942,2652708987
+dimwishlist:item=839344841&perks=2801223209,3429800428,3365897133,831391274
+dimwishlist:item=839344841&perks=2801223209,3429800428,3365897133,2652708987
+dimwishlist:item=839344841&perks=2801223209,3429800428,923806249,831391274
+dimwishlist:item=839344841&perks=2801223209,3429800428,923806249,2652708987
+
+
+// Vengeful Whisper (pvp)
+//notes: Абсолют: Скорострельность tags:pvp
+dimwishlist:item=839344841&perks=2801223209,3429800428,1866048759,2416023159
 
 
 // Adjudicator (god-pvp)
@@ -403,6 +438,16 @@ dimwishlist:item=2763843899&perks=3250034553,1968497646,3017780555,4293542123
 dimwishlist:item=2763843899&perks=3250034553,1968497646,3828510309,4293542123
 
 
+// Naeem's Lance (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
+dimwishlist:item=2806569825&perks=839105230,1087426260,1523832109,555281244
+
+
+// Naeem's Lance (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
+dimwishlist:item=2806569825&perks=1523832109,555281244
+
+
 // Judgment (god-pvp)
 //notes: Абсолют: Дальность tags:god-pvp
 dimwishlist:item=2969415423&perks=1926090091,3142289711,588594999,47981717
@@ -472,6 +517,29 @@ dimwishlist:item=3098328572&perks=1482024992,1885400500,4071163871,4104185692
 dimwishlist:item=3098328572&perks=1482024992,1885400500,4071163871,2048641572
 
 
+// Indebted Kindness (god-pve)
+//notes: Абсолют: Скорость перезарядки/Скорость снаряда tags:god-pve
+dimwishlist:item=3381450498&perks=3525010810,3230963543,1556840489,3993379141
+
+
+// Indebted Kindness (god-pve)
+//notes: Абсолют: Скорость снаряда tags:god-pve
+dimwishlist:item=3381450498&perks=1556840489,3993379141
+
+
+// Indebted Kindness (pve)
+//notes: Абсолют: Перезарядка/Скорость снаряда tags:pve
+dimwishlist:item=3381450498&perks=3525010810,3230963543,1556840489,3993379141
+dimwishlist:item=3381450498&perks=3525010810,3230963543,1556840489,2173046394
+dimwishlist:item=3381450498&perks=3525010810,3230963543,1556840489,3673922083
+dimwishlist:item=3381450498&perks=3525010810,3230963543,951095735,3993379141
+dimwishlist:item=3381450498&perks=3525010810,3230963543,951095735,2173046394
+dimwishlist:item=3381450498&perks=3525010810,3230963543,951095735,3673922083
+dimwishlist:item=3381450498&perks=3525010810,3230963543,2859149211,3993379141
+dimwishlist:item=3381450498&perks=3525010810,3230963543,2859149211,2173046394
+dimwishlist:item=3381450498&perks=3525010810,3230963543,2859149211,3673922083
+
+
 // Prosecutor (god-pvp)
 //notes: Абсолют: Дальность tags:god-pvp
 dimwishlist:item=3483591058&perks=202670084,1885400500,2387244414,365154968
@@ -505,6 +573,9 @@ dimwishlist:item=3483591058&perks=202670084,1885400500,1365187766,2610012052
 // Prosecutor (pve)
 //notes: Абсолют: Перезарядка tags:pve
 dimwishlist:item=3483591058&perks=1482024992,3230963543,3418782618,365154968
+dimwishlist:item=3483591058&perks=1482024992,3230963543,3418782618,2610012052
+dimwishlist:item=3483591058&perks=1482024992,3230963543,2848615171,365154968
+dimwishlist:item=3483591058&perks=1482024992,3230963543,2848615171,2610012052
 
 
 // Succession (god-pve)
@@ -520,6 +591,21 @@ dimwishlist:item=3612338554&perks=1523832109,1546637391
 // Succession (pve)
 //notes: Абсолют: Удобство+Запасной магазин tags:pve
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417
+
+
+// Dragoncult Sickle (god-pve)
+//notes: Абсолют: Урон tags:god-pve
+dimwishlist:item=3668817296&perks=3666208348,269888150,923806249,243981275
+
+
+// Dragoncult Sickle (god-pve)
+//notes: Абсолют: Урон tags:god-pve
+dimwishlist:item=3668817296&perks=923806249,243981275
+
+
+// Dragoncult Sickle (pve)
+//notes: Абсолют: Урон tags:pve
+dimwishlist:item=3668817296&perks=3666208348,269888150,3523296417,2396489472
 
 
 // Luna's Howl (god-pve)
