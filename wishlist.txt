@@ -2,66 +2,76 @@ title:Список желаний
 version:0.02
 description:Список желаний клана [ROW]
 
-// Hung Jury SR4 ()
-//notes: PVE | Абсолют: Перезарядка
+// Hung Jury SR4 (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=205225492&perks=839105230,1087426260,3891536761,555281244
+
+
+// Hung Jury SR4 (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=205225492&perks=3891536761,555281244
+
+
+// Hung Jury SR4 (pve)
+//notes: Абсолют: Перезарядка tags:pve
 dimwishlist:item=205225492&perks=839105230,1087426260,3891536761,3824105627
 dimwishlist:item=205225492&perks=839105230,1087426260,3891536761,555281244
 dimwishlist:item=205225492&perks=839105230,1087426260,3418782618,3824105627
 dimwishlist:item=205225492&perks=839105230,1087426260,3418782618,555281244
 
 
-// Hung Jury SR4 ()
-//notes: GPVE | Абсолют: Перезарядка
-dimwishlist:item=205225492&perks=839105230,1087426260,3891536761,555281244
-
-
-// Hung Jury SR4 ()
-//notes: GPVE | Абсолют: Перезарядка
-dimwishlist:item=205225492&perks=3891536761,555281244
-
-
-// Hammerhead - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка/Дальность
-
+// Hammerhead (god-pve)
+//notes: Абсолют: Перезарядка/Дальность
+ tags:god-pve
 dimwishlist:item=211732170&perks=3250034553,1087426260,3425386926,557221067
 
 
-// Hammerhead - PVE ()
-//notes: PVE | Абсолют: Перезарядка/Дальность
+// Hammerhead (god-pve)
+//notes: Абсолют: Перезарядка/Дальность
+ tags:god-pve
+dimwishlist:item=211732170&perks=3425386926,557221067
+
+
+// Hammerhead (pve)
+//notes: Абсолют: Перезарядка/Дальность tags:pve
 dimwishlist:item=211732170&perks=3250034553,1087426260,1354429876,365154968
 dimwishlist:item=211732170&perks=3250034553,1087426260,1354429876,557221067
 dimwishlist:item=211732170&perks=3250034553,1087426260,2048641572,365154968
 dimwishlist:item=211732170&perks=3250034553,1087426260,2048641572,557221067
 
 
-// Hammerhead - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка/Дальность
-
-dimwishlist:item=211732170&perks=3425386926,557221067
-
-
-// Falling Guillotine - GPVE ()
-//notes: GPVE | Абсолют: Урон
+// Falling Guillotine (god-pve)
+//notes: Абсолют: Урон tags:god-pve
 dimwishlist:item=243425374&perks=3666208348,269888150,1546637391,3078487919
 
 
-// Falling Guillotine - GPVE ()
-//notes: GPVE | Абсолют: Урон
+// Falling Guillotine (god-pve)
+//notes: Абсолют: Урон tags:god-pve
 dimwishlist:item=243425374&perks=1546637391,3078487919
 
 
-// Forbearance - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка
+// Forbearance (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
 dimwishlist:item=568611921&perks=3525010810,2822142346,2010801679,2396489472
 
 
-// Forbearance - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка
+// Forbearance (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
 dimwishlist:item=568611921&perks=2010801679,2396489472
 
 
-// The Mountaintop - PVE ()
-//notes: PVE | Абсолют: Удобство
+// The Mountaintop (god-pve)
+//notes: Абсолют: Удобство tags:god-pve
+dimwishlist:item=568611922&perks=981914802,3301904089,951095735,469285294
+
+
+// The Mountaintop (god-pve)
+//notes: Абсолют: Удобство tags:god-pve
+dimwishlist:item=568611922&perks=951095735,469285294
+
+
+// The Mountaintop (pve)
+//notes: Абсолют: Удобство tags:pve
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,4104185692
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,4049631843
@@ -73,48 +83,43 @@ dimwishlist:item=568611922&perks=981914802,3301904089,2010801679,4104185692
 dimwishlist:item=568611922&perks=981914802,3301904089,2010801679,4049631843
 
 
-// The Mountaintop - GPVE ()
-//notes: GPVE | Абсолют: Удобство
-dimwishlist:item=568611922&perks=981914802,3301904089,951095735,469285294
-
-
-// The Mountaintop - GPVE ()
-//notes: GPVE | Абсолют: Удобство
-dimwishlist:item=568611922&perks=951095735,469285294
-
-
-// Edge Transit - GPVE ()
-//notes: GPVE | Абсолют: Скорость снаряда
+// Edge Transit (god-pve)
+//notes: Абсолют: Скорость снаряда tags:god-pve
 dimwishlist:item=568611923&perks=981914802,3301904089,968510818,3078487919
 
 
-// Edge Transit - GPVE ()
-//notes: GPVE | Абсолют: Скорость снаряда
+// Edge Transit (god-pve)
+//notes: Абсолют: Скорость снаряда tags:god-pve
 dimwishlist:item=568611923&perks=968510818,3078487919
 
 
-// Succession - GPVE ()
-//notes: GPVE | Абсолют: Удобство+Запасной магазин
+// Succession (god-pve)
+//notes: Абсолют: Удобство+Запасной магазин tags:god-pve
 dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1546637391
 
 
-// Succession - PVE ()
-//notes: PVE | Абсолют: Удобство+Запасной магазин
-dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1771339417
-
-
-// Succession - GPVE ()
-//notes: GPVE | Абсолют: Удобство+Запасной магазин
+// Succession (god-pve)
+//notes: Абсолют: Удобство+Запасной магазин tags:god-pve
 dimwishlist:item=570866107&perks=1523832109,1546637391
 
 
-// The Recluse - GPVE ()
-//notes: GPVE | Абсолют: Дальность
+// Succession (pve)
+//notes: Абсолют: Удобство+Запасной магазин tags:pve
+dimwishlist:item=570866107&perks=1840239774,2420895100,1523832109,1771339417
+
+
+// The Recluse (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
 dimwishlist:item=1050806815&perks=3250034553,1885400500,1820235745,4104185692
 
 
-// The Recluse - PVE ()
-//notes: PVE | Абсолют: Дальность
+// The Recluse (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
+dimwishlist:item=1050806815&perks=1820235745,4104185692
+
+
+// The Recluse (pve)
+//notes: Абсолют: Дальность tags:pve
 dimwishlist:item=1050806815&perks=3250034553,1885400500,776531651,4104185692
 dimwishlist:item=1050806815&perks=3250034553,1885400500,776531651,2048641572
 dimwishlist:item=1050806815&perks=3250034553,1885400500,1820235745,4104185692
@@ -129,151 +134,154 @@ dimwishlist:item=1050806815&perks=1482024992,1885400500,4071163871,4104185692
 dimwishlist:item=1050806815&perks=1482024992,1885400500,4071163871,2048641572
 
 
-// The Recluse - GPVE ()
-//notes: GPVE | Абсолют: Дальность
-dimwishlist:item=1050806815&perks=1820235745,4104185692
-
-
-// Hung Jury SR4 - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка
+// Hung Jury SR4 (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
 dimwishlist:item=1453235079&perks=839105230,1087426260,3891536761,555281244
 
 
-// Hung Jury SR4 - PVE ()
-//notes: PVE | Абсолют: Перезарядка
+// Hung Jury SR4 (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
+dimwishlist:item=1453235079&perks=3891536761,555281244
+
+
+// Hung Jury SR4 (pve)
+//notes: Абсолют: Перезарядка tags:pve
 dimwishlist:item=1453235079&perks=839105230,1087426260,3891536761,3824105627
 dimwishlist:item=1453235079&perks=839105230,1087426260,3891536761,555281244
 dimwishlist:item=1453235079&perks=839105230,1087426260,3418782618,3824105627
 dimwishlist:item=1453235079&perks=839105230,1087426260,3418782618,555281244
 
 
-// Hung Jury SR4 - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка
-dimwishlist:item=1453235079&perks=3891536761,555281244
-
-
-// Falling Guillotine - GPVE ()
-//notes: GPVE | Абсолют: Урон
+// Falling Guillotine (god-pve)
+//notes: Абсолют: Урон tags:god-pve
 dimwishlist:item=1815105249&perks=3666208348,269888150,2396489472,3078487919
 
 
-// Falling Guillotine - GPVE ()
-//notes: GPVE | Абсолют: Урон
+// Falling Guillotine (god-pve)
+//notes: Абсолют: Урон tags:god-pve
 dimwishlist:item=1815105249&perks=2396489472,3078487919
 
 
-// Hammerhead - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка/Дальность
+// Hammerhead (god-pve)
+//notes: Абсолют: Перезарядка/Дальность tags:god-pve
 dimwishlist:item=1896309757&perks=3250034553,1087426260,3425386926,557221067
 
 
-// Hammerhead - PVE ()
-//notes: PVE | Абсолют: Перезарядка/Дальность
+// Hammerhead (god-pve)
+//notes: Абсолют: Перезарядка/Дальность tags:god-pve
+dimwishlist:item=1896309757&perks=3425386926,557221067
+
+
+// Hammerhead (pve)
+//notes: Абсолют: Перезарядка/Дальность tags:pve
 dimwishlist:item=1896309757&perks=3250034553,1087426260,1354429876,365154968
 dimwishlist:item=1896309757&perks=3250034553,1087426260,1354429876,557221067
 dimwishlist:item=1896309757&perks=3250034553,1087426260,2048641572,365154968
 dimwishlist:item=1896309757&perks=3250034553,1087426260,2048641572,557221067
 
 
-// Hammerhead - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка/Дальность
-dimwishlist:item=1896309757&perks=3425386926,557221067
-
-
-// Edge Transit - GPVE ()
-//notes: GPVE | Абсолют: Скорость снаряда
+// Edge Transit (god-pve)
+//notes: Абсолют: Скорость снаряда tags:god-pve
 dimwishlist:item=2228325504&perks=981914802,3301904089,968510818,3078487919
 
 
-// Edge Transit - GPVE ()
-//notes: GPVE | Абсолют: Скорость снаряда
+// Edge Transit (god-pve)
+//notes: Абсолют: Скорость снаряда tags:god-pve
 dimwishlist:item=2228325504&perks=968510818,3078487919
 
 
-// Blast Furnace - GPVE ()
-//notes: GPVE | Абсолют: Стабильность
+// Blast Furnace (god-pve)
+//notes: Абсолют: Стабильность tags:god-pve
 dimwishlist:item=2372514508&perks=839105230,106909392,3891536761,4104185692
 
 
-// Blast Furnace - GPVE ()
-//notes: GPVE | Абсолют: Стабильность
+// Blast Furnace (god-pve)
+//notes: Абсолют: Стабильность tags:god-pve
 dimwishlist:item=2372514508&perks=3891536761,4104185692
 
 
-// Forbearance - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка
+// Forbearance (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
 dimwishlist:item=2480074702&perks=3525010810,2822142346,2010801679,2396489472
 
 
-// Forbearance - GPVE ()
-//notes: GPVE | Абсолют: Перезарядка
+// Forbearance (god-pve)
+//notes: Абсолют: Перезарядка tags:god-pve
 dimwishlist:item=2480074702&perks=2010801679,2396489472
 
 
-// Midnight Coup - GPVE ()
-//notes: GPVE | Абсолют: Любой
+// Midnight Coup (god-pve)
+//notes: Абсолют: Любой tags:god-pve
 dimwishlist:item=2499720827&perks=1482024992,3142289711,3824105627,4104185692
 
 
-// Midnight Coup - PVE ()
-//notes: PVE | Абсолют: Любой
+// Midnight Coup (god-pve)
+//notes: Абсолют: Любой tags:god-pve
+dimwishlist:item=2499720827&perks=3824105627,4104185692
+
+
+// Midnight Coup (pve)
+//notes: Абсолют: Любой tags:pve
 dimwishlist:item=2499720827&perks=1482024992,3142289711,3824105627,2109543898
 dimwishlist:item=2499720827&perks=1482024992,3142289711,3824105627,4049631843
 dimwishlist:item=2499720827&perks=1482024992,3142289711,3824105627,3891536761
 
 
-// Midnight Coup - GPVE ()
-//notes: GPVE | Абсолют: Любой
-dimwishlist:item=2499720827&perks=3824105627,4104185692
-
-
-// Blast Furnace - GPVE ()
-//notes: GPVE | Абсолют: Стабильность
+// Blast Furnace (god-pve)
+//notes: Абсолют: Стабильность tags:god-pve
 dimwishlist:item=2533990645&perks=839105230,106909392,3891536761,4104185692
 
 
-// Blast Furnace - GPVE ()
-//notes: GPVE | Абсолют: Стабильность
+// Blast Furnace (god-pve)
+//notes: Абсолют: Стабильность tags:god-pve
 dimwishlist:item=2533990645&perks=3891536761,4104185692
 
 
-// Midnight Coup - GPVE ()
-//notes: GPVE | Абсолют: Любой
+// Midnight Coup (god-pve)
+//notes: Абсолют: Любой tags:god-pve
 dimwishlist:item=2763843898&perks=1482024992,3142289711,3824105627,4104185692
 
 
-// Midnight Coup - PVE ()
-//notes: PVE | Абсолют: Любой
+// Midnight Coup (god-pve)
+//notes: Абсолют: Любой tags:god-pve
+dimwishlist:item=2763843898&perks=3824105627,4104185692
+
+
+// Midnight Coup (pve)
+//notes: Абсолют: Любой tags:pve
 dimwishlist:item=2763843898&perks=1482024992,3142289711,3824105627,2109543898
 dimwishlist:item=2763843898&perks=1482024992,3142289711,3824105627,4049631843
 dimwishlist:item=2763843898&perks=1482024992,3142289711,3824105627,3891536761
 
 
-// Midnight Coup - GPVE ()
-//notes: GPVE | Абсолют: Любой
-dimwishlist:item=2763843898&perks=3824105627,4104185692
-
-
-// Luna's Howl - GPVE ()
-//notes: GPVE | Абсолют: Дальность
+// Luna's Howl (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
 dimwishlist:item=2763843899&perks=3250034553,1968497646,3017780555,555281244
-dimwishlist:item=2763843899&perks=3250034553,1968497646,3017780555,4293542123
-dimwishlist:item=2763843899&perks=3250034553,1968497646,3828510309,555281244
-dimwishlist:item=2763843899&perks=3250034553,1968497646,3828510309,4293542123
 
 
-// Luna's Howl - GPVE ()
-//notes: GPVE | Абсолют: Дальность
+// Luna's Howl (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
 dimwishlist:item=2763843899&perks=3017780555,555281244
 
 
-// The Recluse - GPVE ()
-//notes: GPVE | Абсолют: Дальность
+// Luna's Howl (pve)
+//notes: Абсолют: Дальность tags:pve
+dimwishlist:item=2763843899&perks=3250034553,1968497646,3017780555,4293542123
+dimwishlist:item=2763843899&perks=3250034553,1968497646,3828510309,4293542123
+
+
+// The Recluse (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
 dimwishlist:item=3098328572&perks=3250034553,1885400500,1820235745,4104185692
 
 
-// The Recluse - PVE ()
-//notes: PVE | Абсолют: Дальность
+// The Recluse (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
+dimwishlist:item=3098328572&perks=1820235745,4104185692
+
+
+// The Recluse (pve)
+//notes: Абсолют: Дальность tags:pve
 dimwishlist:item=3098328572&perks=3250034553,1885400500,776531651,4104185692
 dimwishlist:item=3098328572&perks=3250034553,1885400500,776531651,2048641572
 dimwishlist:item=3098328572&perks=3250034553,1885400500,1820235745,4104185692
@@ -288,66 +296,67 @@ dimwishlist:item=3098328572&perks=1482024992,1885400500,4071163871,4104185692
 dimwishlist:item=3098328572&perks=1482024992,1885400500,4071163871,2048641572
 
 
-// The Recluse - GPVE ()
-//notes: GPVE | Абсолют: Дальность
-dimwishlist:item=3098328572&perks=1820235745,4104185692
-
-
-// Prosecutor - GPVP ()
-//notes: GPVP | Абсолют: Дальность
+// Prosecutor (god-pvp)
+//notes: Абсолют: Дальность tags:god-pvp
 dimwishlist:item=3483591058&perks=202670084,1885400500,2387244414,365154968
 
 
-// Prosecutor - GPVP ()
-//notes: GPVP | Абсолют: Дальность
+// Prosecutor (god-pvp)
+//notes: Абсолют: Дальность tags:god-pvp
 dimwishlist:item=3483591058&perks=2387244414,365154968
 
 
-// Succession - GPVE ()
-//notes: GPVE | Абсолют: Удобство+Запасной магазин
+// Succession (god-pve)
+//notes: Абсолют: Удобство+Запасной магазин tags:god-pve
 dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1546637391
 
 
-// Succession - PVE ()
-//notes: PVE | Абсолют: Удобство+Запасной магазин
-dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417
-
-
-// Succession - GPVE ()
-//notes: GPVE | Абсолют: Удобство+Запасной магазин
+// Succession (god-pve)
+//notes: Абсолют: Удобство+Запасной магазин tags:god-pve
 dimwishlist:item=3612338554&perks=1523832109,1546637391
 
 
-// Luna's Howl - GPVE ()
-//notes: GPVE | Абсолют: Дальность
+// Succession (pve)
+//notes: Абсолют: Удобство+Запасной магазин tags:pve
+dimwishlist:item=3612338554&perks=1840239774,2420895100,1523832109,1771339417
+
+
+// Luna's Howl (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
 dimwishlist:item=3757612024&perks=3250034553,1968497646,3017780555,555281244
-dimwishlist:item=3757612024&perks=3250034553,1968497646,3017780555,4293542123
-dimwishlist:item=3757612024&perks=3250034553,1968497646,3828510309,555281244
-dimwishlist:item=3757612024&perks=3250034553,1968497646,3828510309,4293542123
 
 
-// Luna's Howl - GPVE ()
-//notes: GPVE | Абсолют: Дальность
+// Luna's Howl (god-pve)
+//notes: Абсолют: Дальность tags:god-pve
 dimwishlist:item=3757612024&perks=3017780555,555281244
 
 
-// The Mountaintop - GPVE ()
-//notes: GPVE | Абсолют: Удобство
+// Luna's Howl (pve)
+//notes: Абсолют: Дальность tags:pve
+dimwishlist:item=3757612024&perks=3250034553,1968497646,3017780555,4293542123
+dimwishlist:item=3757612024&perks=3250034553,1968497646,3828510309,4293542123
+
+
+// The Mountaintop (god-pve)
+//notes: Абсолют: Удобство tags:god-pve
 dimwishlist:item=4043921923&perks=981914802,3301904089,951095735,469285294
 
 
-// The Mountaintop - PVE (pve)
-//notes: PVE | Абсолют: Удобство tags:pve
+// The Mountaintop (god-pve)
+//notes: Абсолют: Удобство tags:god-pve
+dimwishlist:item=4043921923&perks=951095735,469285294
+
+
+// The Mountaintop (pve)
+//notes: Абсолют: Удобство tags:pve
 dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,469285294
 dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,4104185692
+dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,4049631843
 dimwishlist:item=4043921923&perks=981914802,3301904089,3643424744,469285294
 dimwishlist:item=4043921923&perks=981914802,3301904089,3643424744,4104185692
+dimwishlist:item=4043921923&perks=981914802,3301904089,3643424744,4049631843
 dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,469285294
 dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,4104185692
-
-
-// The Mountaintop - GPVE ()
-//notes: GPVE | Абсолют: Удобство
-dimwishlist:item=4043921923&perks=951095735,469285294
+dimwishlist:item=4043921923&perks=981914802,3301904089,2010801679,4049631843
 
 
